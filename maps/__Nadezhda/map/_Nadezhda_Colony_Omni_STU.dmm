@@ -18515,8 +18515,8 @@
 /obj/item/tool/crowbar,
 /obj/machinery/camera/network/colony_underground,
 /obj/machinery/power/wall_obelisk{
-	pixel_y = 24;
-	pixel_x = 1
+	pixel_x = 1;
+	pixel_y = 24
 	},
 /turf/simulated/floor/tiled/dark/cyancorner,
 /area/nadezhda/crew_quarters/sleep/cryo2)
@@ -133161,7 +133161,7 @@ xdj
 ryD
 cpX
 cpX
-cpX
+sRo
 uCp
 jop
 jop
